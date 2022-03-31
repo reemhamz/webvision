@@ -1,12 +1,11 @@
+{: .my-toc-class }
 [TOC]
 
-```{ .c-webvision-article-full}
 *March 23, 2022*
 
 
 
 Mozilla's [mission](https://www.mozilla.org/en-US/mission/) is to ensure that the Internet is a global public resource, open and accessible to all. We believe in an Internet that puts people first, where individuals can shape their own experience and are empowered, safe, and independent.
-{: #an_id .a_class }
 
 The Internet itself is low-level infrastructure — a connective backbone upon which other things are built. It’s essential that this backbone remains healthy, but it’s also not enough. People don’t experience the Internet directly. Rather, they experience it through the technology, products, and ecosystems built on top of it. The most important such system is the Web, which is by far the largest open communication system ever built.
 
@@ -352,4 +351,3 @@ It remains to be seen whether any of these efforts will bear fruit, but solving 
 # Final Thoughts
 
 The Web is an enormous asset to humanity and Mozilla is committed to protecting it and making it better. Powerful economic and technological forces have combined to make the Web the way it is today. Making it better won’t be easy and we can’t do it alone. Some parts of the road ahead are clear and some – especially how to address monetization and centralization – are much murkier, but we believe that we can all work together as a community to make a Web that is truly open and accessible to all.
-```

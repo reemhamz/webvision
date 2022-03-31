@@ -1,9 +1,10 @@
 *March 23, 2022*
 
 [TOC]
-{: #id1 .class1 id=id2 class="class2 class3" .class4 }
+
 
 Mozilla's [mission](https://www.mozilla.org/en-US/mission/) is to ensure that the Internet is a global public resource, open and accessible to all. We believe in an Internet that puts people first, where individuals can shape their own experience and are empowered, safe, and independent.
+{: #an_id .a_class }
 
 The Internet itself is low-level infrastructure — a connective backbone upon which other things are built. It’s essential that this backbone remains healthy, but it’s also not enough. People don’t experience the Internet directly. Rather, they experience it through the technology, products, and ecosystems built on top of it. The most important such system is the Web, which is by far the largest open communication system ever built.
 
